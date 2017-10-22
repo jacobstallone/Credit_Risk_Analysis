@@ -1,4 +1,4 @@
 # Credit_Risk_Analysis
 
 
-This Notebook containst the credit risk analysis of german_credit data set using machinelearning methods.
+This Notebook containst the credit risk analysis of german_credit data set using machine learning methods.
